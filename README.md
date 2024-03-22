@@ -2,7 +2,7 @@
 
 这个文件夹是基于**《Attention is all your need》**论文复现的完整Transformer架构代码，包括：
 
-![1711114902350](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\1711114902350.png)
+![1711116685370](1711116685370.png)
 
 1. 输入部分：Embedding + 位置编码
 2. 编码器：**注意力机制**
